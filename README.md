@@ -48,14 +48,7 @@ MyWebApi/
 
 ## Technologies Used
 - ASP.NET Core Web API
-- Entity Framework Core (if using database)
 - Swagger UI for API documentation
-
-## Next Steps
-- [ ] Add database integration
-- [ ] Implement authentication
-- [ ] Add unit tests
-- [ ] Deploy to cloud
 
 ## Resources
 - [ASP.NET Core Documentation](https://docs.microsoft.com/en-us/aspnet/core/)
